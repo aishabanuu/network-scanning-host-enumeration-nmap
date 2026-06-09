@@ -1,0 +1,13 @@
+# Nmap 7.95 scan initiated
+
+Nmap scan report for 192.168.1.10
+Host is up (0.0020s latency).
+
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+443/tcp  open  https
+
+Service detection performed.
+
+Nmap done: 1 IP address scanned
