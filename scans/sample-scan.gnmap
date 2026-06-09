@@ -1,0 +1,4 @@
+Host: 192.168.1.10 () Status: Up
+
+Host: 192.168.1.10 ()
+Ports: 22/open/tcp//ssh///,80/open/tcp//http///,443/open/tcp//https///
